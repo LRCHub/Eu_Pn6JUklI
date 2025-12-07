@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Sugarsweet",
+  "base_artist": "Zach Sorgen",
+  "createdAt": "2025-12-07T11:35:31.382882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sugarsweet",
+      "artist": "Zach Sorgen",
+      "has_synced": true,
+      "path": "select/01_Sugarsweet_Zach_Sorgen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sugarsweet",
+      "artist": "Zach Sorgen",
+      "has_synced": false,
+      "path": "select/pl_01_Sugarsweet_Zach_Sorgen.txt"
+    }
+  ]
+}
